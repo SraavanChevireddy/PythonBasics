@@ -1,4 +1,5 @@
 {
     "editor.fontSize": 19,
-    "python.pythonPath": ".venv/bin/python"
+    "python.pythonPath": ".venv/bin/python",
+    "git.ignoreLimitWarning": true
 }
