@@ -13,3 +13,5 @@ print(range(5,10))
 # You can convert the range to list with listOf(:_)
 print(list(range(5,10)))
 
+# Step value can be added to range. This indicates the range in which the step should be.
+print(list(range(1,10,2)))
